@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trs-web
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and JS Frameworks
 - 💞️ I’m looking to collaborate on web development and beginner/intermediate projects
 - 📫 How to reach me - trswebdevelopment@gmail.com
 
